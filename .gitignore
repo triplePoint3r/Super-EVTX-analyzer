@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+reports/generated PDFs
+temporary files
+logs
+*.evtx
